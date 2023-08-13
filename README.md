@@ -1,15 +1,12 @@
 ![banner](https://github.com/iam-nur/iam-nur/blob/main/github.png)
 <h1 align="center">Hi 👋, I am Nurr</h1>
 <h3 align="center">Junior Developer Specializing in Front-End and UX/UI Design | 🎨 Graphic Design Enthusiast.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4516939d8c0ca8859a6bb2c046311baf3d877c4852b8237ee2c144c5109cfc07/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313733323336382f73637265656e73686f74732f363535333837322f7765625f646576656c6f7065722e676966>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 - 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Graphic design and web design**
-
 - 📫 How to reach me **: https://www.instagram.com/iam_nur___/**
-
 - ⚡ Fun fact **i think i'am talkative 😂**
 
 <h3 align="left">Connect with me:</h3>
