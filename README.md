@@ -1,4 +1,4 @@
-![logo](https://github.com/iam-nurr/iam-nurr/blob/main/github.png)
+![banner](https://github.com/iam-nur/iam-nur/blob/main/github.png)
 <h1 align="center">Hi 👋, I am Nurr</h1>
 <h3 align="center">Junior Front-End Developer | HTML/CSS & JavaScript | 💻 Aspiring UX/UI Designer | 🎨 Passionate Graphic Designer | Seeking Learning Opportunities</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4516939d8c0ca8859a6bb2c046311baf3d877c4852b8237ee2c144c5109cfc07/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313733323336382f73637265656e73686f74732f363535333837322f7765625f646576656c6f7065722e676966>
