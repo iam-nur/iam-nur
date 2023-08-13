@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Graphic design and web design**
 - 📫 How to reach me **: https://www.instagram.com/iam_nur___/**
-- ⚡ Fun fact **i think i'am talkative 😂**
+- ⚡ Fun fact **i think i am talkative 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
