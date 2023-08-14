@@ -1,4 +1,4 @@
-![banner](https://github.com/iam-nur/iam-nur/blob/main/github.png)
+![banner](https://github.com/iam-nur/iam-nur/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I am Nurr</h1>
 <h3 align="center">Junior Developer Specializing in Front-End and UX/UI Design | 🎨 Graphic Design Enthusiast.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
